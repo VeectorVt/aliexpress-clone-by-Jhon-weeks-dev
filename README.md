@@ -1,3 +1,8 @@
+
+# aliexpress-clone-by-Jhon-weeks-dev
+Clonagem da página de aliexpress usando nuxt+tailwind+Supabase+Prisma by: John Week Dev
+https://www.youtube.com/watch?v=dVcCRFVhz74&t=558s
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -74,6 +79,3 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-
-# aliexpress-clone-by-Jhon-weeks-dev
-Clonagem da página de aliexpress usando nuxt+tailwind+Supabase+Prisma
